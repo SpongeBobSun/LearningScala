@@ -17,7 +17,7 @@ What will Functional Programming bring us?
 
 So, it comes to me maybe I should buy myself a brand new toy.
 
-Due to my crappy job, I can rarely have the opportunity to touch new techs. All that boss need me to do is, "This page's js is not working properly, correct it!" , "Write some shit to move those data from mongo to sql server!", "Distribute this node server to docker!" and "Write a gateway and I want it be done today!" 
+Due to my crappy job, I can rarely have the opportunity to touch new techs. All that my boss let me to do is, "This page's js is not working properly, correct it!" , "Write some shit to move those data from mongo to sql server!", "Distribute this node server to docker!" and "Write a gateway and I want it be done today!" 
 
 WTF man? I joined this shit-hole as an Android developer! Give me an APP for fuck sake! At least give me a Java server or something! Web pages? Fuck you. Fuck your stupid web page. Fuck you for let me clean somebody else mess. Fuck you.
 
