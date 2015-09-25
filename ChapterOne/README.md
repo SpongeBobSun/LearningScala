@@ -29,24 +29,21 @@ Variables declared by `val` are immutable. Otherwise, variables declared by `var
 
 For example,
 
-	```scala
-		var greeting = "Hi there"
-		println(greeting)
-	```
+	var greeting = "Hi there"
+	println(greeting)
+
 is okay. But
 
-	```scala
 	val greeting = "Hi there"
 	greeting = "Welcome to the year 3000!"
 	println(greeting)
-	```
+
 will NOT work.
 
 ####Let there be function
 
 Wanna a function? You got it.
 
-```scala
 	def MaxOf(x: Int, y: Int):Int{
 		if (x > y){
 			return x
@@ -54,7 +51,6 @@ Wanna a function? You got it.
 			return y
 		}
 	}
-```
 
 Function is declared by keyword `def`. After a `def` keyword you need name your function. Also, you need declare your function's parameters by wrapping them in brackets. Then is a colon followed by the data type your function will return. Last is your function body, wrapped by curly braces.
 
